@@ -1,6 +1,6 @@
 # Meteor build image
 
-Use in your image make your builds run faster
+Use in your Dockerfile to make your builds run faster
 
 ```
 FROM jaaaco:meteor-build:1.4.4.1
