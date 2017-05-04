@@ -1,3 +1,5 @@
+[![Docker Build Statu](https://img.shields.io/docker/build/jaaaco/meteor-build.svg)](https://hub.docker.com/r/jaaaco/meteor-build/)
+
 # Meteor build image
 
 Use in your Dockerfile to make your builds run faster
