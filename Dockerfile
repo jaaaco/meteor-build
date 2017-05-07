@@ -3,4 +3,5 @@ RUN apt-get update && apt-get install bzip2 curl -y
 RUN npm install pm2 -g
 # install Meteor
 RUN curl "https://install.meteor.com/?release=1.4.4.2" | sh
-
+ENV PORT 80
+EXPOSE 80
