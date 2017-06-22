@@ -5,7 +5,7 @@
 Use in your Dockerfile to make your builds run faster
 
 ```
-FROM jaaaco/meteor-build:1.4.4.2-onbuild
+FROM jaaaco/meteor-build:1.5-onbuild
 ```
 
 Image assumes you have app source in app directory (it does ONBUILD COPY app /app)
